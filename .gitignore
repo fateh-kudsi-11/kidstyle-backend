@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.pyc
+db.sqlite3
+__pycache__/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Dependency directories
+bin/
+lib/
+include/
+requirements/
+.installed.cfg
+
+# Environments
+.venv/
+env/
+ENV/
+
+# macOS Finder metadata
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Python pipenv
+Pipfile.lock
+Pipfile
